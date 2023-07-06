@@ -21,3 +21,13 @@ Top commands in Linux
 20.	Ssh – Secure shell login
 21.	There are different package managers for linux machine. 
 For example ‘APT’ is for ubuntu, ‘YUM’ is for Cento os, ‘RPM’ is for Redhat, (Expensive), DNF is for Debian etc… all of these are different package managers for different Linux machines. ***
+22. date- show date and time
+23. uptime- display system uptime
+24. cal- show calender
+25. w- display who is logged in
+26. whoami- display effective username
+27. finger user- show info about user
+28. df- disk free space
+29. du- disk usage stats
+30. free- show memory and swamp usage
+31. 
